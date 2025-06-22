@@ -1,1 +1,3 @@
 contenido para la rama madre, segundo commit
+
+contenido para la rama 2, mas contenido para la rama 2
